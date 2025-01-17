@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello
 hyy
+=======
+hii
+hello
+>>>>>>> 3e740945cbf441495f04326d021d674ff9cfcdd5
